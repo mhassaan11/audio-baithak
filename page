@@ -1,0 +1,864 @@
+	<!DOCTYPE html> 
+	<html lang="en-US" class="no-js"> 
+	<head> 
+	<meta charset="UTF-8"> 
+	<meta name="viewport" content="width=device-width"> 
+	<link rel="profile" href="http://gmpg.org/xfn/11"> 
+
+	<link rel="pingback" href="http://baithak.co/xmlrpc.php"> 
+
+	
+	
+	<title>Donation Forms &#8211; Baithak &#8211; Challenging Taboos</title>
+	<meta name='robots' content='max-image-preview:large' />
+	<link rel='dns-prefetch' href='//maps.googleapis.com' />
+
+	<link rel='dns-prefetch' href='//baithak.co' />
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+
+	<link rel='dns-prefetch' href='//s.w.org' />
+
+	<link rel="alternate" type="application/rss+xml" title="Baithak - Challenging Taboos &raquo; Feed" href="http://baithak.co/?feed=rss2" />
+
+	<link rel="alternate" type="application/rss+xml" title="Baithak - Challenging Taboos &raquo; Comments Feed" href="http://baithak.co/?feed=comments-rss2" />
+
+	<link rel="alternate" type="application/rss+xml" title="Baithak - Challenging Taboos &raquo; Donation Forms Feed" href="http://baithak.co/?post_type=give_forms&#038;feed=rss2" />
+
+	<script type="text/javascript">
+	window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/baithak.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+	!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+	</script>
+	<style type="text/css">
+	img.wp-smiley,
+	img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+	}
+	</style>
+	<link rel='stylesheet' id='revslider-material-icons-css' href='http://baithak.co/wp-content/plugins/revslider/admin/assets/icons/material-icons.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='revslider-basics-css-css' href='http://baithak.co/wp-content/plugins/revslider/admin/assets/css/basics.css?ver=6.2.2' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='rs-color-picker-css-css' href='http://baithak.co/wp-content/plugins/revslider/admin/assets/css/tp-color-picker.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='revbuilder-select2RS-css' href='http://baithak.co/wp-content/plugins/revslider/admin/assets/css/select2RS.css?ver=6.2.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='dashicons-css' href='http://baithak.co/wp-includes/css/dashicons.min.css?ver=5.8.1' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='admin-bar-css' href='http://baithak.co/wp-includes/css/admin-bar.min.css?ver=5.8.1' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='wp-block-library-css' href='http://baithak.co/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+
+	<style id='wp-block-library-theme-inline-css' type='text/css'>
+	#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+	</style>
+	<link rel='stylesheet' id='cmp-admin-head-style-css' href='http://baithak.co/wp-content/plugins/cmp-coming-soon-maintenance/css/cmp-admin-head.css?ver=4.0.16' type='text/css' media='all' />
+	<link rel='stylesheet' id='contact-form-7-css' href='http://baithak.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='rs-plugin-settings-css' href='http://baithak.co/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.2' type='text/css' media='all' />
+
+	<style id='rs-plugin-settings-inline-css' type='text/css'>
+	#rs-demo-id {}
+	</style>
+	<link rel='stylesheet' id='give-styles-css' href='http://baithak.co/wp-content/plugins/give/assets/dist/css/give.css?ver=2.13.4' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='charityheart-theme-fonts-css' href='http://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900|Neuton:400,400i,700,800&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='charityheart-compare-css' href='http://baithak.co/wp-content/themes/charityheart/css/compare.css?ver=3.2' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='font-awesome-css' href='http://baithak.co/wp-content/themes/charityheart/css/font-awesome.css?ver=4.5.0' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='font-monia-css' href='http://baithak.co/wp-content/themes/charityheart/css/font-monia.css?ver=1.0.0' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='material-design-iconic-font-css' href='http://baithak.co/wp-content/themes/charityheart/css/material-design-iconic-font.css?ver=2.2.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='animate-css' href='http://baithak.co/wp-content/themes/charityheart/css/animate.css?ver=3.5.0' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='bootstrap-css' href='http://baithak.co/wp-content/themes/charityheart/css/bootstrap.css?ver=3.2.0' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='charityheart-template-css' href='http://baithak.co/wp-content/themes/charityheart/css/template.css?ver=3.2' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='charityheart-style-css' href='http://baithak.co/wp-content/themes/charityheart/style.css?ver=3.2' type='text/css' media='all' />
+
+	<link rel='stylesheet' id='perfect-scrollbar-css' href='http://baithak.co/wp-content/themes/charityheart/css/perfect-scrollbar.css?ver=0.6.12' type='text/css' media='all' />
+	<link rel='stylesheet' id='magnific-popup-css' href='http://baithak.co/wp-content/themes/charityheart/js/magnific/magnific-popup.css?ver=1.1.0' type='text/css' media='all' />
+	<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?sensor=false&#038;libraries=places&#038;key&#038;ver=5.8.1' id='gmap3-api-js-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+
+	<script type='text/javascript' id='cmp_admin_script-js-extra'>
+	/* <![CDATA[ */
+	var cmp_ajax = {"ajax_url":"http:\/\/baithak.co\/wp-admin\/admin-ajax.php"};
+	/* ]]> */
+	</script>
+	<script type='text/javascript' src='http://baithak.co/wp-content/plugins/cmp-coming-soon-maintenance/js/cmp-admin-head.js?ver=4.0.16' id='cmp_admin_script-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.0' id='tp-tools-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.2' id='revmin-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/plugins/give/assets/dist/js/babel-polyfill.js?ver=2.13.4' id='babel-polyfill-js'></script>
+	<script type='text/javascript' id='give-js-extra'>
+	/* <![CDATA[ */
+	var give_global_vars = {"ajaxurl":"http:\/\/baithak.co\/wp-admin\/admin-ajax.php","checkout_nonce":"a1b72df4bc","currency":"USD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","textForOverlayScreen":"<h3>Processing...<\/h3><p>This will only take a second!<\/p>","number_decimals":"2","is_test_mode":"1","give_version":"2.13.4","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"http:\/\/baithak.co\/wp-admin\/admin-ajax.php","ajaxNonce":"1f23891109","loading":"Loading","select_option":"Please select an option","default_gateway":"manual","permalinks":"0","number_decimals":2},"cookie_hash":"102d2cea3908a07a075685251fd72483","session_nonce_cookie_name":"wp-give_session_reset_nonce_102d2cea3908a07a075685251fd72483","session_cookie_name":"wp-give_session_102d2cea3908a07a075685251fd72483","delete_session_nonce_cookie":"0"};
+	var giveApiSettings = {"root":"http:\/\/baithak.co\/index.php?rest_route=\/give-api\/v2\/","rest_base":"give-api\/v2"};
+	/* ]]> */
+	</script>
+	<script type='text/javascript' src='http://baithak.co/wp-content/plugins/give/assets/dist/js/give.js?ver=2.13.4' id='give-js'></script>
+
+	<link rel="https://api.w.org/" href="http://baithak.co/index.php?rest_route=/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://baithak.co/xmlrpc.php?rsd" />
+
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://baithak.co/wp-includes/wlwmanifest.xml" /> 
+
+	<meta name="generator" content="WordPress 5.8.1" />
+	<meta name="generator" content="Give v2.13.4" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+	<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+	html { margin-top: 46px !important; }
+	* html body { margin-top: 46px !important; }
+	}
+	</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.2.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+	<style> 
+	.vc_custom_1492490697087{padding-top: 50px !important;padding-bottom: 35px !important;}.vc_custom_1492417706128{margin-bottom: 15px !important;} 
+	</style> 
+	<!-- ******************************************************************** --><!-- * Theme Options Styles ********************************************* --><!-- ******************************************************************** --><style>/* Typography *//* Main Font *//* Second Font *//* Custom Color (skin) *//* check main color */.hh{color: #b20606 !important;}/* check second background color */.give-special .give-btn-modal:hover, .give-special .give-btn-modal:active,.btn-theme.btn-outline:hover, .btn-theme.btn-outline:active,.btn-theme:hover, .btn-theme:focus, .btn-theme:active{background-color: #b20606 !important;}.give-special .give-btn-modal:hover, .give-special .give-btn-modal:active,.btn-outline.btn-themes:hover,.btn-outline.btn-themes:active,.btn-theme:hover,.btn-theme:active{border-color: #b20606 !important;}/***************************************************************//* Top Bar *****************************************************//***************************************************************//* Top Bar Backgound */#apus-topbar {}/* Top Bar Color *//* Top Bar Link Color *//***************************************************************//* Header *****************************************************//***************************************************************//* Header Backgound */.header-default .sticky-header .header-inner,.header-v4 .sticky-header .header-inner,#apus-header .header-top,#apus-header .header-middle,#apus-header {s}/* Header Color */#apus-header {color: #0a0a0a;}/* Header Link Color */#apus-header a {color: #ffffff ;}/* Header Link Color Active */#apus-header .active > a,#apus-header a:active,#apus-header a:hover {color: #e50000;}/* Menu Link Color *//* Menu Link Color Active *//***************************************************************//* Footer *****************************************************//***************************************************************//* Footer Backgound */#apus-footer {}/* Footer Heading Color*//* Footer Color *//* Footer Link Color *//* Footer Link Color Hover*//***************************************************************//* Copyright *****************************************************//***************************************************************//* Copyright Backgound */.apus-copyright {}/* Footer Color *//* Footer Link Color *//* Footer Link Color Hover*//* Woocommerce Breadcrumbs *//* Custom CSS */</style><script type="text/javascript">function setREVStartSize(e){ 
+	try { 
+	var pw = document.getElementById(e.c).parentNode.offsetWidth, 
+	newh; 
+	pw = pw===0 || isNaN(pw) ? window.innerWidth : pw; 
+	e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw); 
+	e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw); 
+	e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh); 
+	e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh); 
+	e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide); 
+	e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide); 
+	e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0); 
+	if(e.layout==="fullscreen" || e.l==="fullscreen") 
+	newh = Math.max(e.mh,window.innerHeight); 
+	else{ 
+	e.gw = Array.isArray(e.gw) ? e.gw : [e.gw]; 
+	for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1]; 
+	e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el; 
+	e.gh = Array.isArray(e.gh) ? e.gh : [e.gh]; 
+	for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1]; 
+	
+	var nl = new Array(e.rl.length), 
+	ix = 0, 
+	sl; 
+	e.tabw = e.tabhide>=pw ? 0 : e.tabw; 
+	e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw; 
+	e.tabh = e.tabhide>=pw ? 0 : e.tabh; 
+	e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh; 
+	for (var i in e.rl) nl[i] = e.rl[i]<window.innerWidth ? 0 : e.rl[i]; 
+	sl = nl[0]; 
+	for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;} 
+	var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]); 
+	
+	newh = (e.type==="carousel" && e.justify==="true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh); 
+	} 
+	
+	if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style")); 
+	document.getElementById(e.c).height = newh; 
+	window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }"; 
+	} catch(e){ 
+	console.log("Failure at Presize of Slider:" + e) 
+	} 
+	};</script>
+	<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head> 
+	<body class="archive post-type-archive post-type-archive-give_forms logged-in admin-bar no-customize-support wp-embed-responsive give-test-mode give-page apus-body-loading image-lazy-loading wpb-js-composer js-comp-ver-6.1 vc_responsive"> 
+	<div class="apus-page-loading"> 
+	<div id="loader"></div> 
+	<div class="loader-section section-left"></div> 
+	<div class="loader-section section-right"></div> 
+	</div> 
+	<div id="wrapper-container" class="wrapper-container"> 
+	
+	<div id="apus-mobile-menu" class="apus-offcanvas hidden-lg hidden-md"> 
+	<div class="apus-offcanvas-body">
+	<div class="offcanvas-head bg-primary">
+	<button type="button" class="btn btn-toggle-canvas btn-danger" data-toggle="offcanvas">
+	<i class="fa fa-close"></i> 
+	</button>
+	<strong>MENU</strong>
+	</div>
+	
+	<nav class="navbar navbar-offcanvas navbar-static" role="navigation">
+	<div class="navbar-collapse navbar-offcanvas-collapse"><ul id="main-mobile-menu" class="nav navbar-nav"><li id="menu-item-1080" class="menu-item-1080"><a href="http://baithak.co/">Home</a></li>
+
+	<li id="menu-item-1089" class="menu-item-1089"><a href="http://baithak.co/?page_id=444">About us</a></li>
+
+	<li id="menu-item-1060" class="active menu-item-1060"><a href="http://baithak.co/?post_type=give_forms">Our causes</a></li>
+
+	<li id="menu-item-1086" class="has-submenu menu-item-1086"><a href="http://baithak.co/?page_id=18">Blog</a> <span class="icon-toggle"><i class="fa fa-plus"></i></span>
+	<ul class="sub-menu">
+	<li id="menu-item-1057" class="menu-item-1057"><a href="http://demoapus-wp.com/charityheart/blog/?_preset=1493287811">Blog 3 Column</a></li>
+
+	</ul>
+	</li>
+	<li id="menu-item-1091" class="menu-item-1091"><a href="http://baithak.co/?page_id=493">Contact us</a></li>
+
+	<li id="menu-item-1093" class="menu-item-1093"><a href="http://baithak.co/?page_id=514">Our Volunteer</a></li>
+
+	</ul></div> </nav>
+	
+	</div>
+	</div> 
+	<div id="apus-header-mobile" class="header-mobile hidden-lg hidden-md clearfix">
+	<div class="container">
+	<div class="row">
+	<div class="col-xs-3">
+	<div class="sidebar-mobile clearfix">
+	<div class="active-mobile pull-left">
+	<button data-toggle="offcanvas" class="btn btn-sm btn-danger btn-offcanvas btn-toggle-canvas offcanvas" type="button">
+	<i class="fa fa-bars"></i>
+	</button>
+	</div>
+	</div>
+	</div>
+	<div class="col-xs-6">
+	
+	<div class="logo">
+	<a href="http://baithak.co/" >
+
+	<img src="http://baithak.co/wp-content/uploads/2021/09/logo-01.png" alt="Baithak &#8211; Challenging Taboos">
+	</a>
+	</div>
+	</div>
+	<div class="col-xs-3">
+	<div class="sidebar-mobile clearfix">
+	<div class="search-popup pull-right">
+	<div class="dropdown">
+	<button class="btn btn-sm btn-primary btn-outline dropdown-toggle" type="button" data-toggle="dropdown"><span class="fa fa-search"></span></button>
+	<div class="dropdown-menu dropdown-menu-right">
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="overflow-wrapper-canvas">
+	</div> 
+	<header id="apus-header" class="apus-header header-default hidden-sm hidden-xs" role="banner"> 
+	<div class="header-middle main-sticky-header-wrapper"> 
+	<div class="main-sticky-header"> 
+	<div class="header-inner"> 
+	<div class="container"> 
+	<div class="pull-left"> 
+	<div class="logo-in-theme "> 
+	
+	<div class="logo">
+	<a href="http://baithak.co/" >
+
+	<img src="http://baithak.co/wp-content/uploads/2021/09/logo-01.png" alt="Baithak &#8211; Challenging Taboos">
+	</a>
+	</div>
+	</div> 
+	</div> 
+	<div class="p-relative pull-left"> 
+	<div class="main-menu pull-left"> 
+	<nav 
+	data-duration="400" class="hidden-xs hidden-sm apus-megamenu slide animate navbar p-static" role="navigation"> 
+	<div class="collapse navbar-collapse no-padding"><ul id="primary-menu" class="nav navbar-nav megamenu"><li class="menu-item-1080 aligned-left"><a href="http://baithak.co/">Home</a></li>
+
+	<li class="menu-item-1089 aligned-left"><a href="http://baithak.co/?page_id=444">About us</a></li>
+	<li class="active menu-item-1060 aligned-left"><a href="http://baithak.co/?post_type=give_forms">Our causes</a></li>
+
+	<li class="dropdown menu-item-1086 aligned-left"><a href="http://baithak.co/?page_id=18" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Blog <b class="caret"></b></a>
+	<ul class="dropdown-menu">
+	<li class="menu-item-1057 aligned-"><a href="http://demoapus-wp.com/charityheart/blog/?_preset=1493287811">Blog 3 Column</a></li>
+
+	</ul>
+	</li>
+	<li class="menu-item-1091 aligned-left"><a href="http://baithak.co/?page_id=493">Contact us</a></li>
+	<li class="menu-item-1093 aligned-left"><a href="http://baithak.co/?page_id=514">Our Volunteer</a></li>
+	</ul></div> </nav> 
+	</div> 
+	<div class="pull-left"> 
+	</div> 
+	</div> 
+	<div class="pull-right header-right"> 
+	<div class="pull-right wrapper-topmenu hidden-xs hidden-sm"> 
+	<div class="btn-group"> 
+	<button type="button" class="btn btn-setting btn-lg about-us-sidebar-btn"> 
+	<i class="mn-icon-103"></i> 
+	</button> 
+	</div> 
+	</div> 
+	<div class="donate pull-right"> 
+	<a href="http://baithak.co/?post_type=give_forms" class="btn btn-lg btn-theme btn-donate">donate now</a> 
+	</div> 
+	</div> 
+	</div> 
+	</div> 
+	</div> 
+	</div> 
+	</header> 
+	<div id="about-us-sidebar" class="widget-area clearfix hidden-sm hidden-xs"> 
+	<div class="about-us-sidebar-wrapper"> 
+	<aside id="text-6" class="widget widget_text"><h2 class="widget-title">About</h2> <div class="textwidget"><div class="about"> 
+	We are professional and reliable provider since we offer customers the most powerful and beautiful themes. Besides, we always catch the latest technology and adapt to follow world’s new trends to deliver the best themes to the market. 
+	</div></div>
+	</aside><aside id="apus_instagram-3" class="widget widget_apus_instagram"><div class="instagram-widget style2"> 
+	<h2 class="widget-title">Instagram <a href="//instagram.com/apusthemes/" rel="me" target="_self">@apusthemes</a> 
+	</h2>Instagram did not return a 200.</div></aside><aside id="text-7" class="widget widget_text"> <div class="textwidget"><div class="infomation"> 
+	<div class="item"> 
+	<div class="item-left"><i class="mn-icon-1142"><span class="hidden">hidd</span></i></div> 
+	<div class="item-right">PO Box 16122 Collins Street West Victoria 8007 Australia</div> 
+	</div> 
+	<div class="item"> 
+	<div class="item-left"><i class="mn-icon-260"><span class="hidden">hidd</span></i></div> 
+	<div class="item-right">+844 123 456 78</div> 
+	</div> 
+	<div class="item"> 
+	<div class="item-left"><i class="mn-icon-220"><span class="hidden">hidd</span></i></div> 
+	<div class="item-right">contac@yourcompany.com</div> 
+	</div> 
+	</div></div>
+	</aside> </div> 
+	<div class="about-us-sidebar-btn"> 
+	<div class="close-text"><i class="mn-icon-4"></i></div> 
+	</div> 
+	</div> 
+	<div class="about-us-sidebar-panel-overlay"></div> 
+	<div id="apus-main-content"><section id="apus-breadscrumb" class="apus-breadscrumb" style="background-image:url('http://baithak.co/wp-content/uploads/2017/04/br-event-1.jpg')"><div class="container"><div class="wrapper-breads"><div class="wrapper-breads-inner"><h2 class="bread-title">Fellowship Courses</h2><div class="breadscrumb-inner"><ol class="breadcrumb"><li><a href="http://baithak.co">Home</a> </li> <li class="active">Our Campaigns</li></ol></div></div></div></div></section><section class="archive-give"> 
+	<section id="main-container" class="main-content container inner"> 
+	<div class="clearfix"> 
+	
+	<div id="main-content" class="clearfix"> 
+	<main id="main" class="site-main layout-donation layout-donation-grid" role="main"> 
+	<!-- categories --> 
+	<ul class="categories"> 
+	<li class=""> 
+	<a href="http://baithak.co/?category-give=awarness">Awarness</a> 
+
+	</li> 
+	<li class=""> 
+	<a href="http://baithak.co/?category-give=children-aid">Children Aid</a> 
+
+	</li> 
+	<li class=""> 
+	<a href="http://baithak.co/?category-give=education">Education</a> 
+
+	</li> 
+	<li class=""> 
+	<a href="http://baithak.co/?category-give=food">Food</a> 
+
+	</li> 
+	<li class=""> 
+	<a href="http://baithak.co/?category-give=health">Health</a> 
+
+	</li> 
+	<li class=""> 
+	<a href="http://baithak.co/?category-give=lifesaving">Lifesaving</a> 
+
+	</li> 
+	<li class=""> 
+	<a href="http://baithak.co/?category-give=seniors">Seniors</a> 
+
+	</li> 
+	</ul> 
+	
+	<header class="page-header hidden"> 
+	<h1 class="page-title">Archives: <span>Donation Forms</span></h1> </header><!-- .page-header --> 
+	
+	<div class="col-sm-4 first-chil"> 
+	<article class="post-give give-grid give-default">
+	<div class="give-image">
+	
+	<div class="images">
+	<div class="image-wrapper">
+	<a href=" ">
+	<img src="http://baithak.co/wp-content/themes/charityheart/images/placeholder/380x250.png" data-src="http://baithak.co/wp-content/uploads/2017/04/TyphoonHaiyan-1-380x250.jpg" width="380" height="250" alt="TyphoonHaiyan" class="attachment-full unveil-image" /> </a>
+	</div>
+	</div>
+	
+	<div class="donator-whilist"><i class="mn-icon-1246"></i> <strong>16</strong> Donators</div> </div>
+	<div class="give-content">
+	<div class="give-meta">
+	<h3 class="entry-title"><a href=" "> Module 1: Understanding SRHR</a> </h3>
+	<div class="entry-excerpt">
+	What is SRHR?<br>
+Why SRHR? <br>
+Factors affecting SRHR</div>
+	</div>
+	
+	<div class="give-goal-progress ">
+	
+	<div class="give-progress-bar ">
+	<span class="line" style="width: 25%;background-color:#feda0a">
+	<span class="give-percentage">20</span>% &nbsp;
+	</span>
+	</div><!-- /.give-progress-bar -->
+	
+	<div class="total-goal">
+	<span class="goal-income-wrapper"> <span class="income">&#36; </span></span><span class="goal-text-wrapper"> <span class="goal-text">&#36; </span></span> </div>
+	
+	</div><!-- /.goal-progress -->
+	
+	<div class="donate-wrapper">
+	<a class="give-btn" href=" ">Start</a>
+	
+	<div class="time">
+	</div>
+	</div>
+	</div>
+	</article> </div> 
+	<div class="col-sm-4 "> 
+	<article class="post-give give-grid give-default">
+	<div class="give-image">
+	
+	<div class="images">
+	<div class="image-wrapper">
+	<a href=" ">
+	<img src="http://baithak.co/wp-content/themes/charityheart/images/placeholder/380x250.png" data-src="http://baithak.co/wp-content/uploads/2017/04/790a3b86705480a5aefef21a7531e63aa3619ef9-1-380x250.jpg" width="380" height="250" alt="790a3b86705480a5aefef21a7531e63aa3619ef9" class="attachment-full unveil-image" /> </a>
+	</div>
+	</div>
+	
+	</div>
+	<div class="give-content">
+	<div class="give-meta">
+	<h3 class="entry-title"><a href=" "> Module 2: SRHR in Pakistan and FP
+</a> </h3>
+	<div class="entry-excerpt">
+	SRHR in Pakistan; challenges and opportunities</br>
+Family Planning; the Population Narrative; Tawazzun, Meaning and importance of FP.
+Methods of FP </br>
+Ante-natal, prenatal, and postnatal care </br>
+Breastfeeding and Nutrition</br>
+SRHR during and in post-pandemic world
+</div>
+	</div>
+	
+	<div class="give-goal-progress ">
+	
+	<div class="give-progress-bar ">
+	<span class="line" style="width: 0%;background-color:#feda0a">
+	<span class="give-percentage">0</span>% &nbsp;
+	</span>
+	</div><!-- /.give-progress-bar -->
+	
+	<div class="total-goal">
+	<span class="goal-income-wrapper"> <span class="income">&#36; </span></span><span class="goal-text-wrapper"> <span class="goal-text">&#36; </span></span> </div>
+	
+	</div><!-- /.goal-progress -->
+	
+	<div class="donate-wrapper">
+	<a class="give-btn" href=" ">Start</a>
+	
+	<div class="time">
+	</div>
+	</div>
+	</div>
+	</article> </div> 
+	<div class="col-sm-4 "> 
+	<article class="post-give give-grid give-default">
+	<div class="give-image">
+	
+	<div class="images">
+	<div class="image-wrapper">
+	<a href=" ">
+	<img src="http://baithak.co/wp-content/themes/charityheart/images/placeholder/380x250.png" data-src="http://baithak.co/wp-content/uploads/2017/04/DSC00800-1-380x250.jpg" width="380" height="250" alt="DSC00800" class="attachment-full unveil-image" /> </a>
+	</div>
+	</div>
+	
+	</div>
+	<div class="give-content">
+	<div class="give-meta">
+	<h3 class="entry-title"><a href="">Module 3: Other concepts related to SRHR</a> </h3>
+
+	<div class="entry-excerpt">
+	HIV and STIs</br>
+Menstrual Hygiene Management</br>
+Gender Based Violence</br>
+</div>
+	</div>
+	
+	<div class="give-goal-progress ">
+	
+	<div class="give-progress-bar ">
+	<span class="line" style="width: 0%;background-color:#feda0a">
+	<span class="give-percentage">0</span>% &nbsp;
+	</span>
+	</div><!-- /.give-progress-bar -->
+	
+	<div class="total-goal">
+	<span class="goal-income-wrapper"> <span class="income">&#36; </span></span><span class="goal-text-wrapper"> <span class="goal-text">&#36; </span></span> </div>
+	
+	</div><!-- /.goal-progress -->
+	
+	<div class="donate-wrapper">
+	<a class="give-btn" href=" ">Start</a>
+	
+	<div class="time">
+	</div>
+	</div>
+	</div>
+	</article> </div> 
+	<div class="col-sm-4 first-chil"> 
+	<article class="post-give give-grid give-default">
+	<div class="give-image">
+	
+	<div class="images">
+	<div class="image-wrapper">
+	<a href=" ">
+	<img src="http://baithak.co/wp-content/themes/charityheart/images/placeholder/380x250.png" data-src="http://baithak.co/wp-content/uploads/2017/04/89e4913b-671f-489e-9df5-b491a7e06cd5-1-380x250.jpg" width="380" height="250" alt="89e4913b-671f-489e-9df5-b491a7e06cd5" class="attachment-full unveil-image" /> </a>
+	</div>
+	</div>
+	
+	</div>
+	<div class="give-content">
+	<div class="give-meta">
+	<h3 class="entry-title"><a href=" "> Module 4: Advocacy
+ </a> </h3>
+	<div class="entry-excerpt">
+	What is Advocacy? Types of Advocacy.</br>
+SRHR Advocacy Issues and Challenges</br>
+Audience Assessment and choice of language</br>
+Advocacy tools and strategies; identifying intervention points, allied, and opposition</br>
+Designing an Advocacy Strategy</br>
+Community sensitization and mobilization strategies</br>
+</div>
+	</div>
+	
+	<div class="give-goal-progress ">
+	
+	<div class="give-progress-bar ">
+	<span class="line" style="width: 0%;background-color:#feda0a">
+	<span class="give-percentage">0</span>% &nbsp;
+	</span>
+	</div><!-- /.give-progress-bar -->
+	
+	<div class="total-goal">
+	<span class="goal-income-wrapper"> <span class="income">&#36; </span></span><span class="goal-text-wrapper"> <span class="goal-text">&#36; </span></span> </div>
+	
+	</div><!-- /.goal-progress -->
+	
+	<div class="donate-wrapper">
+	<a class="give-btn" href=" ">Start</a>
+	
+	<div class="time">
+	</div>
+	</div>
+	</div>
+	</article> </div> 
+	
+	</main><!-- .site-main --> 
+	</div><!-- .content-area --> 
+	
+	</div> 
+	</section> 
+	</section> 
+	
+	</div><!-- .site-content --> 
+	
+	<footer id="apus-footer" class="apus-footer" role="contentinfo"> 
+	<div class="footer-builder-wrapper dark"><div class="vc_row wpb_row vc_row-fluid vc_custom_1492490697087"><div class="container"><div class="row"><div class="vc_fluid col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_left"> 
+	
+	<figure class="wpb_wrapper vc_figure"> 
+	<div class="vc_single_image-wrapper vc_box_border_grey"><img width="91" height="71" src="http://baithak.co/wp-content/uploads/2017/04/logo-transparent-1.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div> 
+	</figure> 
+	</div><div class="widget wpb_text_column wpb_content_element vc_custom_1492417706128">
+	<div class="wpb_wrapper">
+	<div class="location">
+	<div class="inner">
+	<div class="inner-left"><i class="mn-icon-1138"><span class="hidden">hidden</span></i></div>
+	<div class="inner-right">PO Box 16122 Collins Street West Victoria 8007 Australia</div>
+	</div>
+	<div class="inner">
+	<div class="inner-left"><i class="mn-icon-258"><span class="hidden">hidden</span></i></div>
+	<div class="inner-right">+844 123 456 78</div>
+	</div>
+	<div class="inner">
+	<div class="inner-left"><i class="mn-icon-220"><span class="hidden">hidden</span></i></div>
+	<div class="inner-right">contac@yourcompany.com</div>
+	</div>
+	</div>
+	
+	</div>
+	</div><div class="widget widget-social "> 
+	<div class="widget-content"> 
+	<ul class="social"> 
+	<li> 
+	<a href="#" class="facebook"> 
+
+	<i class="fa fa-facebook "></i> 
+	</a> 
+	</li> 
+	<li> 
+	<a href="#" class="twitter"> 
+
+	<i class="fa fa-twitter "></i> 
+	</a> 
+	</li> 
+	<li> 
+	<a href="#" class="youtube"> 
+
+	<i class="fa fa-youtube "></i> 
+	</a> 
+	</li> 
+	<li> 
+	<a href="#" class="pinterest"> 
+
+	<i class="fa fa-pinterest "></i> 
+	</a> 
+	</li> 
+	<li> 
+	<a href="#" class="google-plus"> 
+
+	<i class="fa fa-google-plus "></i> 
+	</a> 
+	</li> 
+	</ul> 
+	</div> 
+	</div></div></div></div><div class="vc_fluid col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="apus_custom_menu wpb_content_element"><div class="widget widget_nav_menu"><h2 class="widgettitle">Pages</h2><div class="menu-custom-menu-container"><ul id="menu-custom-menu" class="menu"><li id="menu-item-1045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1045"><a href="#">About Us</a></li>
+
+	<li id="menu-item-1046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1046"><a href="#">Causes</a></li>
+
+	<li id="menu-item-1047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1047"><a href="#">Gallery</a></li>
+
+	<li id="menu-item-1048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1048"><a href="#">Our Volunteers</a></li>
+
+	<li id="menu-item-1049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1049"><a href="#">FAQ</a></li>
+
+	<li id="menu-item-1050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1050"><a href="#">Latest News</a></li>
+
+	<li id="menu-item-1051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1051"><a href="#">Contact</a></li>
+
+	</ul></div></div></div></div></div></div><div class="vc_fluid col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper"> 
+	<div class="widget-blogs no-margin clearfix list_noimage "> 
+	<h3 class="widget-title"> 
+	<span>Latest News</span> 
+	</h3> 
+	<div class="widget-content"> 
+	<ul class="posts-list"> 
+	<li> 
+	<article class="post post-list style1 post-1 type-post status-publish format-standard hentry category-uncategorized">
+	<div class="info">
+	<div class="info-content">
+	<h4 class="entry-title">
+	<a href="http://baithak.co/?p=1">Hello world!</a>
+
+	</h4>
+	<a href="http://baithak.co/?p=1" class="date">September 20, 2021</a>
+
+	</div>
+	</div>
+	</article> </li> 
+	<li> 
+	<article class="post post-list style1 post-541 type-post status-publish format-standard has-post-thumbnail hentry category-slider">
+	<div class="info">
+	<div class="info-content">
+	<h4 class="entry-title">
+	<a href="http://baithak.co/?p=541">American Humane Association</a>
+
+	</h4>
+	<a href="http://baithak.co/?p=541" class="date">May 3, 2017</a>
+
+	</div>
+	</div>
+	</article> </li> 
+	<li> 
+	<article class="post post-list style1 post-539 type-post status-publish format-standard has-post-thumbnail hentry category-children">
+	<div class="info">
+	<div class="info-content">
+	<h4 class="entry-title">
+	<a href="http://baithak.co/?p=539">Donate your woolens this winter</a>
+
+	</h4>
+	<a href="http://baithak.co/?p=539" class="date">May 3, 2017</a>
+
+	</div>
+	</div>
+	</article> </li> 
+	<li> 
+	<article class="post post-list style1 post-536 type-post status-publish format-standard has-post-thumbnail hentry category-education">
+	<div class="info">
+	<div class="info-content">
+	<h4 class="entry-title">
+	<a href="http://baithak.co/?p=536">Wildlife Conservation Society</a>
+
+	</h4>
+	<a href="http://baithak.co/?p=536" class="date">May 3, 2017</a>
+
+	</div>
+	</div>
+	</article> </li> 
+	</ul> 
+	</div> 
+	</div> 
+	</div></div></div><div class="vc_fluid col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper"> <div class="widget widget-gallery ">
+	<h3 class="widget-title">
+	<span>Gallery</span>
+	</h3>
+	<div class="widget-content">
+	<div class="row">
+	<div class="col-sm-4 col-xs-6">
+	<div class="image ">
+	<a href="http://baithak.co/wp-content/uploads/2017/05/127886-daa6405572c2cb4dd932aafb348fa671240ad561-1.jpg" class="popup-image">
+
+	<img src="http://baithak.co/wp-content/uploads/2017/05/127886-daa6405572c2cb4dd932aafb348fa671240ad561-1.jpg" alt="">
+
+	</a>
+	</div>
+	</div>
+	<div class="col-sm-4 col-xs-6">
+	<div class="image ">
+	<a href="http://baithak.co/wp-content/uploads/2017/05/maxresdefault-1-1.jpg" class="popup-image">
+	<img src="http://baithak.co/wp-content/uploads/2017/05/maxresdefault-1-1.jpg" alt="">
+
+	</a>
+	</div>
+	</div>
+	<div class="col-sm-4 col-xs-6">
+	<div class="image last">
+	<a href="http://baithak.co/wp-content/uploads/2017/05/n00022881-r-b-019-1.jpg" class="popup-image">
+	<img src="http://baithak.co/wp-content/uploads/2017/05/n00022881-r-b-019-1.jpg" alt="">
+
+	</a>
+	</div>
+	</div>
+	<div class="col-sm-4 col-xs-6">
+	<div class="image ">
+	<a href="http://baithak.co/wp-content/uploads/2017/05/stock-photo-91086555-1.jpg" class="popup-image">
+	<img src="http://baithak.co/wp-content/uploads/2017/05/stock-photo-91086555-1.jpg" alt="">
+	</a>
+	</div>
+	</div>
+	<div class="col-sm-4 col-xs-6">
+	<div class="image ">
+	<a href="http://baithak.co/wp-content/uploads/2017/05/1794-1.jpg" class="popup-image">
+
+	<img src="http://baithak.co/wp-content/uploads/2017/05/1794-1.jpg" alt="">
+
+	</a>
+	</div>
+	</div>
+	<div class="col-sm-4 col-xs-6">
+	<div class="image last">
+	<a href="http://baithak.co/wp-content/uploads/2017/05/790a3b86705480a5aefef21a7531e63aa3619ef9-1-1.jpg" class="popup-image">
+	<img src="http://baithak.co/wp-content/uploads/2017/05/790a3b86705480a5aefef21a7531e63aa3619ef9-1-1.jpg" alt="">
+
+	</a>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid apus-copyright"><div class="container"><div class="row"><div class="vc_fluid col-md-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="widget wpb_text_column wpb_content_element ">
+	<div class="wpb_wrapper">
+	<p>Copyright © 2017 <span class="text-theme">Apusthemes</span> - All rights reserved. Powered by Wordpress</p>
+	
+	</div>
+	</div></div></div></div><div class="vc_fluid col-md-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_right"> 
+	
+	<figure class="wpb_wrapper vc_figure"> 
+	<div class="vc_single_image-wrapper vc_box_border_grey"><img width="255" height="24" src="http://baithak.co/wp-content/uploads/2017/04/Shape-3-1.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div> 
+	</figure> 
+	</div></div></div></div></div></div></div></div> 
+	</footer><!-- .site-footer --> 
+	<a href="#" id="back-to-top"> 
+
+	<i class="fa fa-angle-up"></i> 
+	</a> 
+	
+	</div><!-- .site --> 
+	
+	<script type="text/html" id="wpb-modifications"></script><link rel='stylesheet' id='js_composer_front-css' href='http://baithak.co/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1' type='text/css' media='all' />
+	<script type='text/javascript' src='http://baithak.co/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-includes/js/admin-bar.min.js?ver=5.8.1' id='admin-bar-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/plugins/apus-simple-event/assets/gmap3.js?ver=20131022' id='gmap3-js-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+
+	<script type='text/javascript' id='contact-form-7-js-extra'>
+	/* <![CDATA[ */
+	var wpcf7 = {"api":{"root":"http:\/\/baithak.co\/index.php?rest_route=\/","namespace":"contact-form-7\/v1"}};
+	/* ]]> */
+	</script>
+	<script type='text/javascript' src='http://baithak.co/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/skip-link-focus-fix.js?ver=20141010' id='skip-link-focus-fix-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/bootstrap.min.js?ver=20150330' id='bootstrap-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/owl.carousel.min.js?ver=2.0.0' id='owl-carousel-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/countdown.js?ver=20150315' id='charityheart-countdown-js'></script>
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/circle-progress.js?ver=20150315' id='circle-progress-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/perfect-scrollbar.jquery.min.js?ver=0.6.12' id='perfect-scrollbar-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/magnific/jquery.magnific-popup.min.js?ver=1.1.0' id='jquery-magnific-popup-js'></script>
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/jquery.unveil.js?ver=1.1.0' id='jquery-unveil-js'></script>
+
+	<script type='text/javascript' id='charityheart-script-js-extra'>
+	/* <![CDATA[ */
+	var charityheart_ajax = {"ajaxurl":"http:\/\/baithak.co\/wp-admin\/admin-ajax.php"};
+	/* ]]> */
+	</script>
+	<script type='text/javascript' src='http://baithak.co/wp-content/themes/charityheart/js/functions.js?ver=20150330' id='charityheart-script-js'></script>
+	<script type='text/javascript' src='http://baithak.co/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+
+	<script type='text/javascript' src='http://baithak.co/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1' id='wpb_composer_front_js-js'></script>
+	<script type="text/javascript"> 
+	jQuery(document).ready(function(){ 
+	if(jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0){ 
+	var aliases = new Array(); 
+	jQuery('rs-module-wrap').each(function(){ 
+	aliases.push(jQuery(this).data('alias')); 
+	}); 
+	
+	if(aliases.length > 0){ 
+	jQuery('#wp-admin-bar-revslider-default li').each(function(){ 
+	var li = jQuery(this), 
+	t = jQuery.trim(li.find('.ab-item .rs-label').data('alias')); //text() 
+	
+	if(jQuery.inArray(t,aliases)!=-1){ 
+	}else{ 
+	li.remove(); 
+	} 
+	}); 
+	} 
+	}else{ 
+	jQuery('#wp-admin-bar-revslider').remove(); 
+	} 
+	}); 
+	</script> 
+	<script type="text/javascript">
+	(function() {
+	var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+	
+	request = true;
+	
+	b[c] = b[c].replace( rcs, ' ' );
+	// The customizer requires postMessage and CORS (if the site is cross domain).
+	b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+	}());
+	</script>
+	<div id="wpadminbar" class="nojq nojs">
+	<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+
+	<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+	<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://baithak.co/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://baithak.co/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/support/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://baithak.co/wp-admin/'>Baithak - Challenging Taboos</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://baithak.co/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://baithak.co/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://baithak.co/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://baithak.co/wp-admin/nav-menus.php'>Menus</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='http://baithak.co/wp-admin/themes.php?page=custom-background'>Background</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='http://baithak.co/wp-admin/themes.php?page=custom-header'>Header</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://baithak.co/wp-admin/customize.php?url=http%3A%2F%2Fbaithak.co%2F%3Fpost_type%3Dgive_forms'>Customize</a></li><li id='wp-admin-bar-_options'><a class='ab-item' href='http://baithak.co/wp-admin/admin.php?page=_options'><span class="ab-icon dashicons-portfolio"></span>Themes Options</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://baithak.co/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">2</span><span class="screen-reader-text updates-available-text">2 updates available</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://baithak.co/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-13" aria-hidden="true">13</span><span class="screen-reader-text comments-in-moderation-text">13 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://baithak.co/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://baithak.co/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-give_forms'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php?post_type=give_forms'>Donation Form</a></li><li id='wp-admin-bar-new-give_volunteer'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php?post_type=give_volunteer'>Volunteer</a></li><li id='wp-admin-bar-new-simple_event'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php?post_type=simple_event'>Event</a></li><li id='wp-admin-bar-new-apus_footer'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php?post_type=apus_footer'>Footer</a></li><li id='wp-admin-bar-new-apus_brand'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php?post_type=apus_brand'>Brand</a></li><li id='wp-admin-bar-new-apus_testimonial'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php?post_type=apus_testimonial'>Testimonial</a></li><li id='wp-admin-bar-new-apus_megamenu'><a class='ab-item' href='http://baithak.co/wp-admin/post-new.php?post_type=apus_megamenu'>Megamenu Profile</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://baithak.co/wp-admin/user-new.php'>User</a></li></ul></div></li><li id='wp-admin-bar-wpnceasywp-admin-menu'><a class='ab-item' href='/?post_type=give_forms&#038;wpnceasywp_action=clear_all&#038;_wpnonce=28488437ce' title='Clear Cache'>Clear Cache</a></li><li id='wp-admin-bar-revslider' class="menupop revslider-menu"><a class='ab-item' aria-haspopup="true" href='http://baithak.co/wp-admin/admin.php?page=revslider'><span class="rs-label">Slider Revolution</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-revslider-default' class="ab-submenu"><li id='wp-admin-bar-slider-2' class="revslider-sub-menu"><a class='ab-item' href='http://baithak.co/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=slider-1'><span class="rs-label" data-alias="slider-2">Slider 2</span></a></li><li id='wp-admin-bar-slider-3' class="revslider-sub-menu"><a class='ab-item' href='http://baithak.co/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=slider-2'><span class="rs-label" data-alias="slider-3">slider 3</span></a></li><li id='wp-admin-bar-slider-4' class="revslider-sub-menu"><a class='ab-item' href='http://baithak.co/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=slider-3'><span class="rs-label" data-alias="slider-4">Slider 4</span></a></li><li id='wp-admin-bar-slider5' class="revslider-sub-menu"><a class='ab-item' href='http://baithak.co/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=slider-4'><span class="rs-label" data-alias="slider5">Slider 5</span></a></li><li id='wp-admin-bar-slider_1' class="revslider-sub-menu"><a class='ab-item' href='http://baithak.co/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=slider-5'><span class="rs-label" data-alias="slider_1">Slider 1</span></a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://baithak.co/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://baithak.co/wp-admin/profile.php'>Howdy, <span class="display-name">mhassaan11</span><img alt='' src='http://1.gravatar.com/avatar/7a27637369560645d59310f61ac3cf1b?s=26&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/7a27637369560645d59310f61ac3cf1b?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://baithak.co/wp-admin/profile.php'><img alt='' src='http://1.gravatar.com/avatar/7a27637369560645d59310f61ac3cf1b?s=64&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/7a27637369560645d59310f61ac3cf1b?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy'/><span class='display-name'>mhassaan11</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://baithak.co/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://baithak.co/wp-login.php?action=logout&#038;_wpnonce=e88cf0a729'>Log Out</a></li></ul></div></li><li id='wp-admin-bar-cmp-admin-notice' class="menupop cmp-notice coming-soon"><a class='ab-item' aria-haspopup="true" href='http://baithak.co/wp-admin/admin.php?page=cmp-settings'><img src="http://baithak.co/wp-content/plugins/cmp-coming-soon-maintenance/img/cmp.png" alt="CMP Logo" class="cmp-logo" style="max-width:20px;"><span class="cmp-status-msg ab-label">Coming Soon Mode:</span><div class="toggle-wrapper"><div id="cmp-status-menubar" class="toggle-checkbox"></div><div id="cmp-toggle-adminbar" class="status-1" data-security="ae8b3397b9"><span class="toggle_handler"></span></div></div></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-cmp-admin-notice-default' class="ab-submenu"><li id='wp-admin-bar-cmp-basic-settings'><a class='ab-item' href='http://baithak.co/wp-admin/admin.php?page=cmp-settings'>CMP Basic Settings</a></li><li id='wp-admin-bar-cmp-advanced-settings'><a class='ab-item' href='http://baithak.co/wp-admin/admin.php?page=cmp-advanced'>CMP Advanced Settings</a></li><li id='wp-admin-bar-cmp-preview'><a class='ab-item' href='http://baithak.co/?cmp_preview=true' target='_blank'>CMP Preview</a></li></ul></div></li></ul> </div>
+	<a class="screen-reader-shortcut" href="http://baithak.co/wp-login.php?action=logout&#038;_wpnonce=e88cf0a729">Log Out</a>
+
+	</div>
+	
+	</body> 
+	</html>
